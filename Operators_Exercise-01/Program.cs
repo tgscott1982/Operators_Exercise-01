@@ -75,7 +75,7 @@ namespace Operators_Exercise_01
 
             AddSpace();
 
-            // Thought Experiment: What will be the value of x,y,and z that is written to the console?
+            // Thought Experiment: What will be the value of x, y, and z that is written to the console?
             int z = --y + ++x;
             // TODO: x = ?
             // TODO: y = ?
